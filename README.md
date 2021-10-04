@@ -5,25 +5,17 @@
 ├── README.md      <- The top-level README for developers using this project.
 
 
-Data: [Lihttps://www.kaggle.com/c/instacart-market-basket-analysis/data(url)
+Data: https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
-├── data
 
-│  ├── raw       <- The raw data
+│  ├── EDA
 
-│  ├── processed    <- The processed data
+├── EDA 
 
-│
+├── FEATURE ENGINEERING
 
-├── requirements.txt  <- Requirements for this project.
+├── MODELING 
 
-│
-
-├── functions.py    <- Utility functions for project.
-
-├── models.py      <- Models for this dataset
-
-├── notebooks      <- Jupyter notebooks for this project.
 
 ```
 
