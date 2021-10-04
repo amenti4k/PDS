@@ -8,8 +8,6 @@
 Data: https://www.kaggle.com/c/instacart-market-basket-analysis/data
 
 
-│  ├── EDA
-
 ├── EDA 
 
 ├── FEATURE ENGINEERING
